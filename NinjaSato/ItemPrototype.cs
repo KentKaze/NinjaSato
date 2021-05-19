@@ -11,6 +11,7 @@ namespace ArinaWorld
         Food,
         Livingware,
         Tool,
+        Device,
         Equipment,  
         Material
     }
