@@ -1,0 +1,16 @@
+[
+  {
+    "ID": "",
+    "Name": "",
+    "Size": 0,
+    "Hitpoint": 0,
+    "BaseStrength": 0,
+    "StremgthVaryRange": 0,
+    "BaseDexterity": 0,
+    "DexterityVaryRange": 0,
+    "BaseIntelligence": 0,
+    "IntelligenceVaryRange": 0,
+    "BaseAppearance": 0,
+    "AppearanceVaryRange": 0
+  }
+]

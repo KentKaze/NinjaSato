@@ -6,8 +6,9 @@ namespace ArinaWorld
 {
     public class Soul
     {        
+        public int ID { get; set; }
         public int Level { get; set; }
-        public string SoulName { get; set; }
+        public string Name { get; set; }
         //0 ~ 100
         public int Alignment { get; set; }
         public int Sense { get; set; }

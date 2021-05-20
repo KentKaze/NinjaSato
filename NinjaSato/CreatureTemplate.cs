@@ -1,17 +1,16 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Linq;
 using System.Text;
+using System.Threading.Tasks;
 
 namespace ArinaWorld
 {
-    public class CreaturePrototype
+    public class CreatureTemplate
     {
-        //25~100
         public int ID { get; set; }
-        public string Name { get; set; }
-        public int Size { get; set; }
-        public char Sex { get; set; }
-        public int Hitpoint { get; set; }        
+        public int PrototypeID { get; set; }
+        public int SoulTemplateID { get; set; }
         public int BaseStrength { get; set; }
         public int StrengthVaryRange { get; set; }
         public int BaseDexterity { get; set; }
