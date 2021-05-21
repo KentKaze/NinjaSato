@@ -10,7 +10,7 @@ namespace ArinaWorld
         public int BaseLevel { get; set; }
         public int LevelVaryRange { get; set; }
         public string SpecificName { get; set; }        
-        public bool RandomName { get; set; }
+        public bool UseRandomName { get; set; }
         public int BaseAlignment { get; set; }
         public int AlignmentVaryRange { get; set; }
         public int BaseSense { get; set; }

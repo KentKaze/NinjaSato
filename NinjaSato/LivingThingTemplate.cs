@@ -6,10 +6,14 @@ using System.Threading.Tasks;
 
 namespace ArinaWorld
 {
-    public class CreatureTemplate
+    public class LivingThingTemplate
     {
         public int ID { get; set; }
-        public int PrototypeID { get; set; }
+        public int CreaturePrototypeID { get; set; }
+        public string SpecificSurname { get; set; }
+        public string SpecificName { get; set; }
+        public List<string> RandomNames { get; set; }
+        public string RandomName { get; set; }
         public int SoulTemplateID { get; set; }
         public int BaseStrength { get; set; }
         public int StrengthVaryRange { get; set; }
