@@ -23,7 +23,7 @@ namespace ArinaWorld
         Resource,
         Weapon,
         Shield,
-        Armor
+        Armors
     }
 
     public class ItemPrototype
