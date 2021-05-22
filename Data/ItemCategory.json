@@ -1,1 +1,30 @@
-[]
+[
+  {
+    "ID": 1,
+    "Name": "None"
+  },
+  {
+    "ID": 2,
+    "Name": "Food"
+  },
+  {
+    "ID": 3,
+    "Name": "Livingware"
+  },
+  {
+    "ID": 4,
+    "Name": "Tool"
+  },
+  {
+    "ID": 5,
+    "Name": "Device"
+  },
+  {
+    "ID": 6,
+    "Name": "Equipment"
+  },
+  {
+    "ID": 7,
+    "Name": "Material"
+  }
+]
