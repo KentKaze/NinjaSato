@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace ArinaWorld
 {
-    public class ManufactureRule
+    public class ManufacturMethod
     {
 
     }
