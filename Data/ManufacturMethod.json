@@ -1,1 +1,30 @@
-[]
+[
+  {
+    "ID": 1,
+    "Name": "",
+    "Component1ID": null,
+    "Component1Quantity": 0,
+    "Component2ID": null,
+    "Component2Quantity": 0,
+    "Component3ID": null,
+    "Component3Quantity": 0,
+    "Component4ID": null,
+    "Component4Quantity": 0,
+    "KnowledgeID": null,
+    "KnowledgeRank": ""
+  },
+  {
+    "ID": 2,
+    "Name": "",
+    "Component1ID": null,
+    "Component1Quantity": 0,
+    "Component2ID": null,
+    "Component2Quantity": 0,
+    "Component3ID": null,
+    "Component3Quantity": 0,
+    "Component4ID": null,
+    "Component4Quantity": 0,
+    "KnowledgeID": null,
+    "KnowledgeRank": ""
+  }
+]

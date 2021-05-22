@@ -18,5 +18,17 @@
   {
     "ID": 5,
     "Name": "Mountain"
+  },
+  {
+    "ID": 6,
+    "Name": "Coastal"
+  },
+  {
+    "ID": 7,
+    "Name": "Sea"
+  },
+  {
+    "ID": 8,
+    "Name": "DeepSea"
   }
 ]

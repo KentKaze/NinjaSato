@@ -7,11 +7,9 @@ namespace ArinaWorld
     public class LandPiece
     {        
         public long ID { get; set; }
-
-        [KnowledgeLevel(1)]
+        
         public string Terrain { get; set;}
-
-        [KnowledgeLevel(1)]
+        
         public long Altitude { get; set; }
    
         public MapPosition Position { get; set; }
