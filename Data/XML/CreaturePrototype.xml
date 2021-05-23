@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<DataSet>
+  <Data id="0">
+    <Column name="ID">0</Column>
+    <Column name="Name">
+    </Column>
+    <Column name="Size">0</Column>
+    <Column name="Hitpoint">0</Column>
+    <Column name="BaseStrength">0</Column>
+    <Column name="StremgthVaryRange">0</Column>
+    <Column name="BaseDexterity">0</Column>
+    <Column name="DexterityVaryRange">0</Column>
+    <Column name="BaseIntelligence">0</Column>
+    <Column name="IntelligenceVaryRange">0</Column>
+    <Column name="BaseAppearance">0</Column>
+    <Column name="AppearanceVaryRange">0</Column>
+  </Data>
+  <Data id="1">
+    <Column name="ID">1</Column>
+    <Column name="Name">
+    </Column>
+    <Column name="Size">0</Column>
+    <Column name="Hitpoint">0</Column>
+    <Column name="BaseStrength">0</Column>
+    <Column name="StremgthVaryRange">0</Column>
+    <Column name="BaseDexterity">0</Column>
+    <Column name="DexterityVaryRange">0</Column>
+    <Column name="BaseIntelligence">0</Column>
+    <Column name="IntelligenceVaryRange">0</Column>
+    <Column name="BaseAppearance">0</Column>
+    <Column name="AppearanceVaryRange">0</Column>
+  </Data>
+</DataSet>

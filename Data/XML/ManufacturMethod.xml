@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<DataSet>
+  <Data id="0">
+    <Column name="ID">1</Column>
+    <Column name="Name">
+    </Column>
+    <Column name="Component1ID" />
+    <Column name="Component1Quantity">0</Column>
+    <Column name="Component2ID" />
+    <Column name="Component2Quantity">0</Column>
+    <Column name="Component3ID" />
+    <Column name="Component3Quantity">0</Column>
+    <Column name="Component4ID" />
+    <Column name="Component4Quantity">0</Column>
+    <Column name="KnowledgeID" />
+    <Column name="KnowledgeRank">
+    </Column>
+  </Data>
+  <Data id="1">
+    <Column name="ID">2</Column>
+    <Column name="Name">
+    </Column>
+    <Column name="Component1ID" />
+    <Column name="Component1Quantity">0</Column>
+    <Column name="Component2ID" />
+    <Column name="Component2Quantity">0</Column>
+    <Column name="Component3ID" />
+    <Column name="Component3Quantity">0</Column>
+    <Column name="Component4ID" />
+    <Column name="Component4Quantity">0</Column>
+    <Column name="KnowledgeID" />
+    <Column name="KnowledgeRank">
+    </Column>
+  </Data>
+</DataSet>

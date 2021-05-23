@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<DataSet>
+  <Data id="0">
+    <Column name="ID">1</Column>
+    <Column name="Name">Grass</Column>
+  </Data>
+  <Data id="1">
+    <Column name="ID">2</Column>
+    <Column name="Name">Plain</Column>
+  </Data>
+  <Data id="2">
+    <Column name="ID">3</Column>
+    <Column name="Name">Swamp</Column>
+  </Data>
+  <Data id="3">
+    <Column name="ID">4</Column>
+    <Column name="Name">Hill</Column>
+  </Data>
+  <Data id="4">
+    <Column name="ID">5</Column>
+    <Column name="Name">Mountain</Column>
+  </Data>
+  <Data id="5">
+    <Column name="ID">6</Column>
+    <Column name="Name">Coastal</Column>
+  </Data>
+  <Data id="6">
+    <Column name="ID">7</Column>
+    <Column name="Name">Sea</Column>
+  </Data>
+  <Data id="7">
+    <Column name="ID">8</Column>
+    <Column name="Name">DeepSea</Column>
+  </Data>
+</DataSet>
